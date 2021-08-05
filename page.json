@@ -15,40 +15,16 @@
       "name": "landing",
       "items": [
         {
-          "label": "Software",
+          "label": "welcome",
           "description": "We build user-friendly open source software for community platforms.",
-          "href": "/software",
+          "href": "/welcome",
           "items": [
             {
               "label": "Discourse",
               "href": "/discourse",
               "description": "Plugins and Themes for Discourse"
-            },
-            {
-              "label": "Wordpress",
-              "href": "/wordpress",
-              "description": "Plugins and Themes for Wordpress"
-            },
-            {
-              "label": "Discord",
-              "href": "/discord",
-              "description": "Bots and Integrations for Discord"
-            },
-            {
-              "label": "Auth0",
-              "href": "/auth0",
-              "description": "Rules and Integrations for Auth0"
-            },
-            {
-              "label": "Shopify",
-              "href": "/shopify",
-              "description": "Themes and Integrations for Shopify"
-            },
-            {
-              "label": "Something Else?",
-              "href": "/software#contact",
-              "description": "We work with any community platform"
             }
+
           ]
         }
       ]
